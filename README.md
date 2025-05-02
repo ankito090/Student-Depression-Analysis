@@ -19,7 +19,7 @@ In this project, I conducted a comprehensive data analysis of depression among s
 ## Main Files
 
 - [`student_depression_analysis.ipynb`](./student_depression_analysis.ipynb) – Jupyter Notebook containing the complete analysis, visualizations, and interpretations.
-- [`student_depression_dataset.csv`](./student_depression_analysis.csv) – The dataset containing the student depression data.   
+- [`student_depression_dataset.csv`](./student_depression_dataset.csv) – The dataset containing the student depression data.   
 - [`LICENSE`](./LICENSE) – MIT License governing use and distribution of this project.
 
 ## Software Used
